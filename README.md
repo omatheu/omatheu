@@ -4,7 +4,9 @@ Atualmente estou cursando engenharia de software no <a href="https://www.inteli.
 
 Algumas tecnologias que estou estudando, desenvolvendo com:
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="50vh" width="50vh"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="50vh" width="50vh"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="50vh" width="50vh"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain-wordmark.svg" height="50vh" width="50vh"/>
+
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="50vh" width="50vh"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="50vh" width="50vh"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="50vh" width="50vh"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="50vh" width="50vh"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain-wordmark.svg" height="50vh" width="50vh"/>
           
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=omatheu&layout=compact)
