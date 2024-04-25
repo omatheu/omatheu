@@ -1,6 +1,6 @@
 ### Olá! Me chamo Matheus Ribeiro dos Santos
 
-Atualmente estou cursando engenharia de software no <a href="https://www.inteli.edu.br/" style="text-decoration: none; color: white;">Inteli</a>.
+Atualmente estou cursando Sistemas de Informação no <a href="https://www.inteli.edu.br/" style="text-decoration: none; color: white;">Inteli</a>.
 
 Algumas tecnologias que estou estudando, desenvolvendo com:
 
