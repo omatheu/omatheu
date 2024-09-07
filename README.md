@@ -1,12 +1,12 @@
-### Olá! Me chamo Matheus Ribeiro dos Santos
+### Hi! I`m Matheus
 
-Atualmente estou cursando Engenharia de Software no <a href="https://www.inteli.edu.br/" style="text-decoration: none; color: white;">Inteli</a>.
+Actually, I am studying Sofware Engineering at <a href="https://www.inteli.edu.br/" style="text-decoration: none; color: white;">Inteli</a>.
 
-Algumas tecnologias que estou estudando, desenvolvendo com:
+Tech Stack:
 
 
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="50vh" width="50vh"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="50vh" width="50vh"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="50vh" width="50vh"/> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="50vh" width="50vh"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="50vh" width="50vh"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="50vh" width="50vh"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="50vh" width="50vh"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="50vh" width="50vh"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="50vh" width="50vh"/>
           
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=omatheu&layout=compact)
