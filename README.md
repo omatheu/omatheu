@@ -12,10 +12,10 @@ Tech Stack:
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=omatheu&layout=compact)
 
 
-<a href="https://www.linkedin.com/in/omatheusrsantos/" img="https://www.linkedin.com/in/omatheusrsantos/"> <a/>
+<a href="https://www.linkedin.com/in/omatheusrsantos/" img="https://www.linkedin.com/in/omatheusrsantos/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" href="https://www.linkedin.com/in/omatheusrsantos/" /> <a/>
 
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" href="https://www.linkedin.com/in/omatheusrsantos/" />
-<a href="https://www.linkedin.com/in/omatheusrsantos/">
+
+<a href="https://www.linkedin.com/in/omatheusrsantos/" target="_blank" rel="noopener noreferrer">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/omatheu/omatheu/output/github-contribution-grid-snake-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/omatheu/omatheu/output/github-contribution-grid-snake.svg">
