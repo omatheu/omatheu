@@ -1,6 +1,6 @@
 ### Hi! I`m Matheus
 
-Actually, I am studying Sofware Engineering at <a href="https://www.inteli.edu.br/" style="text-decoration: none; color: white;">Inteli</a>.
+Currently, I am studying Sofware Engineering at <a href="https://www.inteli.edu.br/" style="text-decoration: none; color: white;">Inteli</a>.
 
 Tech Stack:
 
